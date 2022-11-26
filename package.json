@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.0",
+        "@vitejs/plugin-vue": "^3.2.0",
+        "vite-plugin-vuetify": "^1.0.0-alpha.12",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^3.0.0"
+    },
+    "dependencies": {
+        "@mdi/font": "7.0.96",
+        "roboto-fontface": "*",
+        "vue": "^3.2.45",
+        "vuetify": "^3.0.0",
+        "webfontloader": "^1.0.0"
+    }
+}
